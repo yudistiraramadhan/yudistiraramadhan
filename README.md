@@ -13,7 +13,7 @@
 
 ## Hola Amigo
 
-Hi!, I'm Yudistira.
+Hi!, I'm Yudistira. You can also check my personal github <a href="https://github.com/scorpion182">@scorpion182</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
