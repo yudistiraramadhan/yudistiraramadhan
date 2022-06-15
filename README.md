@@ -1,14 +1,17 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/yudistira-gita-ramadhan-m-m-84702345">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  ![](https://visitor-badge.glitch.me/badge?page_id=yudistiraramadhan) 
+  
+</div>
+
 ## Hola Amigo
-<a href="https://www.instagram.com/yudistira_hana/">
-  <img align="left" alt="Yudistira's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/yudistira-gita-ramadhan-m-m-84702345/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=yudistiraramadhan) 
-
-<br />
 
 Hi!, I'm Yudistira.
 
