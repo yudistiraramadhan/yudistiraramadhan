@@ -27,7 +27,7 @@ Hi!, I'm Yudistira. You can also check my personal github <a href="https://githu
 
 ### 📈 My Github Stats
 
-[![yudistiraramadhan's github stats](https://github-readme-stats.vercel.app/api?username=yudistiraramadhan)](https://github.com/yudistiraramadhan/github-readme-stats)
+[![yudistiraramadhan's github stats](https://github-readme-stats.vercel.app/api?username=yudistiraramadhan&count_private=true)](https://github.com/yudistiraramadhan/github-readme-stats)
 
 <!---
 yudistiraramadhan/yudistiraramadhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
